@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/k-iishan/Leetcode/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/k-iishan/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Dynamic Programming
 |  |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3819-rotate-non-negative-elements](https://github.com/k-iishan/Leetcode/tree/master/3819-rotate-non-negative-elements) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/k-iishan/Leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->

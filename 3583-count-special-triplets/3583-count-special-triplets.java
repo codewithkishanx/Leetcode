@@ -1,40 +1,18 @@
 class Solution {
-
+    final static int mod=(int)1e9+7, M=(int)1e5+1;
     public int specialTriplets(int[] nums) {
-
-        long ans = 0;
-        int MOD = 1_000_000_007;
-
-        Map<Long, Integer> left = new HashMap<>();
-        Map<Long, Integer> right = new HashMap<>();
-        for (int num : nums) {
-            right.put((long) num, right.getOrDefault((long) num, 0) + 1);
+        final int  n=nums.length;
+        int [] freq=new int[M];
+        int [] prev=new int[M];
+        for(int x: nums) freq[x]++;
+        long cnt=0;
+        prev[nums[0]]++;
+        for(int i=1; i<n-1; i++){
+            final int x=nums[i], x2=x<<1;
+            if (x2<M)
+                cnt+=(long)prev[x2]*(freq[x2]-prev[x2]-(x==0?1:0));
+            prev[x]++;
         }
-        left.put((long) nums[0], 1);
-
-        right.put((long) nums[0], right.get((long) nums[0]) - 1);
-
-        if (right.get((long) nums[0]) == 0) {
-            right.remove((long) nums[0]);
-        }
-
-        for (int i = 1; i < nums.length - 1; i++) {
-
-            long target = 2L * nums[i];
-            right.put((long) nums[i], right.get((long) nums[i]) - 1);
-
-            if (right.get((long) nums[i]) == 0) {
-                right.remove((long) nums[i]);
-            }
-            if (left.containsKey(target) && right.containsKey(target)) {
-
-                ans = (ans +
-                        (long) left.get(target) * right.get(target)) % MOD;
-            }
-            left.put((long) nums[i],
-                    left.getOrDefault((long) nums[i], 0) + 1);
-        }
-
-        return (int) ans;
+        return (int)(cnt%mod);
     }
 }

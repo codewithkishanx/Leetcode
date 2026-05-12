@@ -1,29 +1,29 @@
+import java.util.*;
+
 class Solution {
     public int minimumEffort(int[][] tasks) {
+        Arrays.sort(tasks, (a, b) ->
+            Integer.compare(
+                (b[1] - b[0]),
+                (a[1] - a[0])
+            )
+        );
 
+        int energy = 0;
+        int current = 0;
 
-        Arrays.sort(tasks, (a, b) -> {
-            return (b[1] - b[0]) - (a[1] - a[0]);
-        });
+        for (int[] t : tasks) {
 
-        int ans = 0;
-        int curr = 0;
-
-        for (int[] task : tasks) {
-
-            int actual = task[0];
-            int minimum = task[1];
-
-        
-            if (curr < minimum) {
-                ans += (minimum - curr);
-                curr = minimum;
+            int actual = t[0];
+            int minimum = t[1];
+            if (current < minimum) {
+                energy += (minimum - current);
+                current = minimum;
             }
 
-           
-            curr -= actual;
+            current -= actual;
         }
 
-        return ans;
+        return energy;
     }
 }

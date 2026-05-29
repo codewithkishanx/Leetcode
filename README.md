@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/codewithkishanx/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/k-iishan/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3151-special-array-i](https://github.com/k-iishan/Leetcode/tree/master/3151-special-array-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/codewithkishanx/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/k-iishan/Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3488-closest-equal-element-queries](https://github.com/k-iishan/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3583-count-special-triplets](https://github.com/k-iishan/Leetcode/tree/master/3583-count-special-triplets) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/k-iishan/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/k-iishan/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/k-iishan/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/codewithkishanx/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/k-iishan/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/k-iishan/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/k-iishan/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |

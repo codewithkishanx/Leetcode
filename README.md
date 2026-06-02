@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/codewithkishanx/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/k-iishan/Leetcode/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/k-iishan/Leetcode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/k-iishan/Leetcode/tree/master/0788-rotated-digits) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/codewithkishanx/Leetcode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/k-iishan/Leetcode/tree/master/0061-rotate-list) |
 ## Number Theory
 |  |
@@ -282,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/k-iishan/Leetcode/tree/master/0039-combination-sum) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/codewithkishanx/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

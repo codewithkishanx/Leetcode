@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/codewithkishanx/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0389-find-the-difference](https://github.com/k-iishan/Leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/k-iishan/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/k-iishan/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/codewithkishanx/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/k-iishan/Leetcode/tree/master/0061-rotate-list) |
 | [0962-maximum-width-ramp](https://github.com/codewithkishanx/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/k-iishan/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/codewithkishanx/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/k-iishan/Leetcode/tree/master/0055-jump-game) |
 | [0300-longest-increasing-subsequence](https://github.com/k-iishan/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/k-iishan/Leetcode/tree/master/0396-rotate-function) |

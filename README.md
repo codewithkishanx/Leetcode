@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/k-iishan/Leetcode/tree/master/1345-jump-game-iv) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/codewithkishanx/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/k-iishan/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/codewithkishanx/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/k-iishan/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/k-iishan/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/k-iishan/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/codewithkishanx/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0788-rotated-digits](https://github.com/k-iishan/Leetcode/tree/master/0788-rotated-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/k-iishan/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/codewithkishanx/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1903-largest-odd-number-in-string](https://github.com/codewithkishanx/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/k-iishan/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/k-iishan/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1090-largest-values-from-labels](https://github.com/codewithkishanx/Leetcode/tree/master/1090-largest-values-from-labels) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/codewithkishanx/Leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/codewithkishanx/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/codewithkishanx/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/k-iishan/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/k-iishan/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/codewithkishanx/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1090-largest-values-from-labels](https://github.com/codewithkishanx/Leetcode/tree/master/1090-largest-values-from-labels) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/codewithkishanx/Leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/codewithkishanx/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/codewithkishanx/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/k-iishan/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/k-iishan/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/k-iishan/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -349,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/codewithkishanx/Leetcode/tree/master/0148-sort-list) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/codewithkishanx/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->

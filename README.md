@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/k-iishan/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/codewithkishanx/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/k-iishan/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/codewithkishanx/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/k-iishan/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/k-iishan/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/codewithkishanx/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/k-iishan/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/codewithkishanx/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/k-iishan/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2574-left-and-right-sum-differences](https://github.com/codewithkishanx/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/k-iishan/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Greedy
 |  |

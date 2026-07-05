@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/k-iishan/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/codewithkishanx/Leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/codewithkishanx/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/codewithkishanx/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1903-largest-odd-number-in-string](https://github.com/codewithkishanx/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2182-construct-string-with-repeat-limit](https://github.com/k-iishan/Leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2370-longest-ideal-subsequence](https://github.com/k-iishan/Leetcode/tree/master/2370-longest-ideal-subsequence) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/k-iishan/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/k-iishan/Leetcode/tree/master/0788-rotated-digits) |
 | [1143-longest-common-subsequence](https://github.com/k-iishan/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/codewithkishanx/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2370-longest-ideal-subsequence](https://github.com/k-iishan/Leetcode/tree/master/2370-longest-ideal-subsequence) |
 | [3660-jump-game-ix](https://github.com/k-iishan/Leetcode/tree/master/3660-jump-game-ix) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/codewithkishanx/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/codewithkishanx/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codewithkishanx/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/codewithkishanx/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/codewithkishanx/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Tree
 |  |
 | ------- |

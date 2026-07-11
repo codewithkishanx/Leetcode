@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/codewithkishanx/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/codewithkishanx/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/codewithkishanx/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2506-count-pairs-of-similar-strings](https://github.com/codewithkishanx/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/k-iishan/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/codewithkishanx/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/k-iishan/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/codewithkishanx/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2182-construct-string-with-repeat-limit](https://github.com/k-iishan/Leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2370-longest-ideal-subsequence](https://github.com/k-iishan/Leetcode/tree/master/2370-longest-ideal-subsequence) |
+| [2506-count-pairs-of-similar-strings](https://github.com/codewithkishanx/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/k-iishan/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2678-number-of-senior-citizens](https://github.com/codewithkishanx/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2833-furthest-point-from-origin](https://github.com/k-iishan/Leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/codewithkishanx/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/k-iishan/Leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2370-longest-ideal-subsequence](https://github.com/k-iishan/Leetcode/tree/master/2370-longest-ideal-subsequence) |
+| [2506-count-pairs-of-similar-strings](https://github.com/codewithkishanx/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/codewithkishanx/Leetcode/tree/master/2540-minimum-common-value) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/k-iishan/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/codewithkishanx/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/k-iishan/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/codewithkishanx/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/k-iishan/Leetcode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2506-count-pairs-of-similar-strings](https://github.com/codewithkishanx/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2833-furthest-point-from-origin](https://github.com/k-iishan/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3583-count-special-triplets](https://github.com/k-iishan/Leetcode/tree/master/3583-count-special-triplets) |
 ## Heap (Priority Queue)
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/k-iishan/Leetcode/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/codewithkishanx/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2506-count-pairs-of-similar-strings](https://github.com/codewithkishanx/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/codewithkishanx/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/k-iishan/Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 ## Radix Sort

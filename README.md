@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2370-longest-ideal-subsequence](https://github.com/k-iishan/Leetcode/tree/master/2370-longest-ideal-subsequence) |
 | [2506-count-pairs-of-similar-strings](https://github.com/codewithkishanx/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/k-iishan/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/codewithkishanx/Leetcode/tree/master/2546-apply-bitwise-operations-to-make-strings-equal) |
 | [2678-number-of-senior-citizens](https://github.com/codewithkishanx/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2833-furthest-point-from-origin](https://github.com/k-iishan/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Hash Table
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/codewithkishanx/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/codewithkishanx/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2506-count-pairs-of-similar-strings](https://github.com/codewithkishanx/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
+| [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/codewithkishanx/Leetcode/tree/master/2546-apply-bitwise-operations-to-make-strings-equal) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/codewithkishanx/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/k-iishan/Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 ## Radix Sort

@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/codewithkishanx/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1590-make-sum-divisible-by-p](https://github.com/codewithkishanx/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/k-iishan/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/codewithkishanx/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/k-iishan/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/k-iishan/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/k-iishan/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1433-check-if-a-string-can-break-another-string](https://github.com/codewithkishanx/Leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/codewithkishanx/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/codewithkishanx/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/codewithkishanx/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/codewithkishanx/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2182-construct-string-with-repeat-limit](https://github.com/k-iishan/Leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2370-longest-ideal-subsequence](https://github.com/k-iishan/Leetcode/tree/master/2370-longest-ideal-subsequence) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/k-iishan/Leetcode/tree/master/1345-jump-game-iv) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/codewithkishanx/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1590-make-sum-divisible-by-p](https://github.com/codewithkishanx/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/codewithkishanx/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/codewithkishanx/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/k-iishan/Leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2370-longest-ideal-subsequence](https://github.com/k-iishan/Leetcode/tree/master/2370-longest-ideal-subsequence) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/codewithkishanx/Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [1090-largest-values-from-labels](https://github.com/codewithkishanx/Leetcode/tree/master/1090-largest-values-from-labels) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/codewithkishanx/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/codewithkishanx/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1833-maximum-ice-cream-bars](https://github.com/k-iishan/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/codewithkishanx/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/k-iishan/Leetcode/tree/master/2182-construct-string-with-repeat-limit) |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/k-iishan/Leetcode/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/codewithkishanx/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/codewithkishanx/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2506-count-pairs-of-similar-strings](https://github.com/codewithkishanx/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/codewithkishanx/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/k-iishan/Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |

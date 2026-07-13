@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/codewithkishanx/Leetcode/tree/master/1291-sequential-digits) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/k-iishan/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/k-iishan/Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/codewithkishanx/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |

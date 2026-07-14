@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/codewithkishanx/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/k-iishan/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/codewithkishanx/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/codewithkishanx/Leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1590-make-sum-divisible-by-p](https://github.com/codewithkishanx/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/k-iishan/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/codewithkishanx/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/k-iishan/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1345-jump-game-iv](https://github.com/k-iishan/Leetcode/tree/master/1345-jump-game-iv) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/codewithkishanx/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/codewithkishanx/Leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1590-make-sum-divisible-by-p](https://github.com/codewithkishanx/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/codewithkishanx/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/codewithkishanx/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/k-iishan/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/codewithkishanx/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/codewithkishanx/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/codewithkishanx/Leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/codewithkishanx/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/k-iishan/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/codewithkishanx/Leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/codewithkishanx/Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/codewithkishanx/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/codewithkishanx/Leetcode/tree/master/0962-maximum-width-ramp) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/codewithkishanx/Leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/k-iishan/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/k-iishan/Leetcode/tree/master/1861-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/codewithkishanx/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |

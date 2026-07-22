@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/k-iishan/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0396-rotate-function](https://github.com/k-iishan/Leetcode/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/k-iishan/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0456-132-pattern](https://github.com/codewithkishanx/Leetcode/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/k-iishan/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/codewithkishanx/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/k-iishan/Leetcode/tree/master/0525-contiguous-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/k-iishan/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/k-iishan/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/k-iishan/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0456-132-pattern](https://github.com/codewithkishanx/Leetcode/tree/master/0456-132-pattern) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/k-iishan/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/codewithkishanx/Leetcode/tree/master/2540-minimum-common-value) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/k-iishan/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/k-iishan/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/k-iishan/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/codewithkishanx/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/codewithkishanx/Leetcode/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/k-iishan/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0962-maximum-width-ramp](https://github.com/codewithkishanx/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codewithkishanx/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/codewithkishanx/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/codewithkishanx/Leetcode/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/k-iishan/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0962-maximum-width-ramp](https://github.com/codewithkishanx/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codewithkishanx/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -419,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/codewithkishanx/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/codewithkishanx/Leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->

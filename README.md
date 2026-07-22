@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/k-iishan/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/k-iishan/Leetcode/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/k-iishan/Leetcode/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/k-iishan/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/codewithkishanx/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/k-iishan/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/codewithkishanx/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/codewithkishanx/Leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/k-iishan/Leetcode/tree/master/0164-maximum-gap) |
+| [0215-kth-largest-element-in-an-array](https://github.com/k-iishan/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/k-iishan/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/k-iishan/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/k-iishan/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/k-iishan/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/k-iishan/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/k-iishan/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2182-construct-string-with-repeat-limit](https://github.com/k-iishan/Leetcode/tree/master/2182-construct-string-with-repeat-limit) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/codewithkishanx/Leetcode/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/k-iishan/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -430,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/codewithkishanx/Leetcode/tree/master/0456-132-pattern) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/k-iishan/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

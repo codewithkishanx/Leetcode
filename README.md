@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/k-iishan/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/k-iishan/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/k-iishan/Leetcode/tree/master/0164-maximum-gap) |
+| [0189-rotate-array](https://github.com/k-iishan/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/codewithkishanx/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/k-iishan/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/codewithkishanx/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/codewithkishanx/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/k-iishan/Leetcode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/k-iishan/Leetcode/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/k-iishan/Leetcode/tree/master/0396-rotate-function) |
 | [0523-continuous-subarray-sum](https://github.com/codewithkishanx/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0788-rotated-digits](https://github.com/k-iishan/Leetcode/tree/master/0788-rotated-digits) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/k-iishan/Leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/codewithkishanx/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/codewithkishanx/Leetcode/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/k-iishan/Leetcode/tree/master/0189-rotate-array) |
 | [0881-boats-to-save-people](https://github.com/codewithkishanx/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0923-3sum-with-multiplicity](https://github.com/codewithkishanx/Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/codewithkishanx/Leetcode/tree/master/0948-bag-of-tokens) |

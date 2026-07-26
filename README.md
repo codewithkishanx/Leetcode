@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/codewithkishanx/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/k-iishan/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/codewithkishanx/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/codewithkishanx/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0722-remove-comments](https://github.com/codewithkishanx/Leetcode/tree/master/0722-remove-comments) |
 | [0746-min-cost-climbing-stairs](https://github.com/k-iishan/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0833-find-and-replace-in-string](https://github.com/codewithkishanx/Leetcode/tree/master/0833-find-and-replace-in-string) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/k-iishan/Leetcode/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/k-iishan/Leetcode/tree/master/0396-rotate-function) |
 | [0523-continuous-subarray-sum](https://github.com/codewithkishanx/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/codewithkishanx/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/k-iishan/Leetcode/tree/master/0788-rotated-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/k-iishan/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/codewithkishanx/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/k-iishan/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/k-iishan/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/k-iishan/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/codewithkishanx/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0833-find-and-replace-in-string](https://github.com/codewithkishanx/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0881-boats-to-save-people](https://github.com/codewithkishanx/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0923-3sum-with-multiplicity](https://github.com/codewithkishanx/Leetcode/tree/master/0923-3sum-with-multiplicity) |

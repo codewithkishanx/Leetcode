@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/k-iishan/Leetcode/tree/master/3660-jump-game-ix) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/k-iishan/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3819-rotate-non-negative-elements](https://github.com/k-iishan/Leetcode/tree/master/3819-rotate-non-negative-elements) |
+| [3862-find-the-smallest-balanced-index](https://github.com/codewithkishanx/Leetcode/tree/master/3862-find-the-smallest-balanced-index) |
 ## String
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/k-iishan/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3707-equal-score-substrings](https://github.com/codewithkishanx/Leetcode/tree/master/3707-equal-score-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/codewithkishanx/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3862-find-the-smallest-balanced-index](https://github.com/codewithkishanx/Leetcode/tree/master/3862-find-the-smallest-balanced-index) |
 ## Greedy
 |  |
 | ------- |

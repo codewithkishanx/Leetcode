@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/codewithkishanx/Leetcode/tree/master/2546-apply-bitwise-operations-to-make-strings-equal) |
 | [2678-number-of-senior-citizens](https://github.com/codewithkishanx/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2833-furthest-point-from-origin](https://github.com/k-iishan/Leetcode/tree/master/2833-furthest-point-from-origin) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codewithkishanx/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/codewithkishanx/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3707-equal-score-substrings](https://github.com/codewithkishanx/Leetcode/tree/master/3707-equal-score-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/codewithkishanx/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/k-iishan/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/codewithkishanx/Leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/k-iishan/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codewithkishanx/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/codewithkishanx/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/codewithkishanx/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/k-iishan/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-minimum-moves-to-reach-target-score](https://github.com/codewithkishanx/Leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/codewithkishanx/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2182-construct-string-with-repeat-limit](https://github.com/k-iishan/Leetcode/tree/master/2182-construct-string-with-repeat-limit) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codewithkishanx/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |

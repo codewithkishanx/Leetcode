@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/codewithkishanx/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/codewithkishanx/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2784-check-if-array-is-good](https://github.com/k-iishan/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [2811-check-if-it-is-possible-to-split-array](https://github.com/codewithkishanx/Leetcode/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [3151-special-array-i](https://github.com/k-iishan/Leetcode/tree/master/3151-special-array-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/codewithkishanx/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/k-iishan/Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-minimum-moves-to-reach-target-score](https://github.com/codewithkishanx/Leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/codewithkishanx/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2182-construct-string-with-repeat-limit](https://github.com/k-iishan/Leetcode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2811-check-if-it-is-possible-to-split-array](https://github.com/codewithkishanx/Leetcode/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codewithkishanx/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codewithkishanx/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/k-iishan/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/codewithkishanx/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2370-longest-ideal-subsequence](https://github.com/k-iishan/Leetcode/tree/master/2370-longest-ideal-subsequence) |
+| [2811-check-if-it-is-possible-to-split-array](https://github.com/codewithkishanx/Leetcode/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [3660-jump-game-ix](https://github.com/k-iishan/Leetcode/tree/master/3660-jump-game-ix) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/codewithkishanx/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Depth-First Search

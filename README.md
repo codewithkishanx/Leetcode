@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/codewithkishanx/Leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/codewithkishanx/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/k-iishan/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2119-a-number-after-a-double-reversal](https://github.com/codewithkishanx/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/codewithkishanx/Leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/k-iishan/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codewithkishanx/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |

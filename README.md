@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/k-iishan/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/k-iishan/Leetcode/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/k-iishan/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2121-intervals-between-identical-elements](https://github.com/codewithkishanx/Leetcode/tree/master/2121-intervals-between-identical-elements) |
 | [2126-destroying-asteroids](https://github.com/codewithkishanx/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/codewithkishanx/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/codewithkishanx/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/codewithkishanx/Leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1590-make-sum-divisible-by-p](https://github.com/codewithkishanx/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/codewithkishanx/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2121-intervals-between-identical-elements](https://github.com/codewithkishanx/Leetcode/tree/master/2121-intervals-between-identical-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/codewithkishanx/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/k-iishan/Leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2370-longest-ideal-subsequence](https://github.com/k-iishan/Leetcode/tree/master/2370-longest-ideal-subsequence) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/k-iishan/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/codewithkishanx/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/codewithkishanx/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [2121-intervals-between-identical-elements](https://github.com/codewithkishanx/Leetcode/tree/master/2121-intervals-between-identical-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/codewithkishanx/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/k-iishan/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3707-equal-score-substrings](https://github.com/codewithkishanx/Leetcode/tree/master/3707-equal-score-substrings) |

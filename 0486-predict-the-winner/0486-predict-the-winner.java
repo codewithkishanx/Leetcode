@@ -1,5 +1,5 @@
 class Solution {
-    Integer[][] dp;
+    int[][] dp;
 
     public boolean predictTheWinner(int[] nums) {
         if (nums.length <= 2) return true;
@@ -11,7 +11,7 @@ class Solution {
             sum += x;
         }
 
-        dp = new Integer[n][n];
+        dp = new int[n][n];
 
         int score = maxScore(0, n - 1, nums);
 
@@ -27,7 +27,7 @@ class Solution {
             return nums[i];
         }
 
-        if (dp[i][j] != null) {
+        if (dp[i][j] != 0) {
             return dp[i][j];
         }
 

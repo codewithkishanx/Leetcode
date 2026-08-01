@@ -1,6 +1,6 @@
 class Solution {
     public String winningPlayer(int x, int y) {
-        boolean turn = true; // Alice's turn
+        boolean turn = true; 
 
         while (x > 0 && y >= 4) {
             x--;

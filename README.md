@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/codewithkishanx/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3707-equal-score-substrings](https://github.com/codewithkishanx/Leetcode/tree/master/3707-equal-score-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/codewithkishanx/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/codewithkishanx/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3853-merge-close-characters](https://github.com/codewithkishanx/Leetcode/tree/master/3853-merge-close-characters) |
 ## Hash Table
 |  |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/codewithkishanx/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/codewithkishanx/Leetcode/tree/master/2540-minimum-common-value) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/codewithkishanx/Leetcode/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/codewithkishanx/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/k-iishan/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/k-iishan/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/codewithkishanx/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/codewithkishanx/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3819-rotate-non-negative-elements](https://github.com/k-iishan/Leetcode/tree/master/3819-rotate-non-negative-elements) |
 ## Linked List
 |  |

@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/k-iishan/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0826-most-profit-assigning-work](https://github.com/codewithkishanx/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0833-find-and-replace-in-string](https://github.com/codewithkishanx/Leetcode/tree/master/0833-find-and-replace-in-string) |
+| [0877-stone-game](https://github.com/codewithkishanx/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/codewithkishanx/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0923-3sum-with-multiplicity](https://github.com/codewithkishanx/Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/codewithkishanx/Leetcode/tree/master/0948-bag-of-tokens) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/codewithkishanx/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codewithkishanx/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/k-iishan/Leetcode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/codewithkishanx/Leetcode/tree/master/0877-stone-game) |
 | [1033-moving-stones-until-consecutive](https://github.com/codewithkishanx/Leetcode/tree/master/1033-moving-stones-until-consecutive) |
 | [1248-count-number-of-nice-subarrays](https://github.com/k-iishan/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/codewithkishanx/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/codewithkishanx/Leetcode/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/k-iishan/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/k-iishan/Leetcode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/codewithkishanx/Leetcode/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/k-iishan/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/codewithkishanx/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2370-longest-ideal-subsequence](https://github.com/k-iishan/Leetcode/tree/master/2370-longest-ideal-subsequence) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/codewithkishanx/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/codewithkishanx/Leetcode/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/codewithkishanx/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/codewithkishanx/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Ordered Set

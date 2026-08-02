@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/codewithkishanx/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2784-check-if-array-is-good](https://github.com/k-iishan/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/codewithkishanx/Leetcode/tree/master/2811-check-if-it-is-possible-to-split-array) |
+| [2905-find-indices-with-index-and-value-difference-ii](https://github.com/codewithkishanx/Leetcode/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [3151-special-array-i](https://github.com/k-iishan/Leetcode/tree/master/3151-special-array-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/codewithkishanx/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/k-iishan/Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/codewithkishanx/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/codewithkishanx/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/codewithkishanx/Leetcode/tree/master/2540-minimum-common-value) |
+| [2905-find-indices-with-index-and-value-difference-ii](https://github.com/codewithkishanx/Leetcode/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 ## Dynamic Programming
 |  |
 | ------- |

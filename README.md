@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/codewithkishanx/Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/codewithkishanx/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/codewithkishanx/Leetcode/tree/master/0962-maximum-width-ramp) |
+| [0977-squares-of-a-sorted-array](https://github.com/codewithkishanx/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1023-camelcase-matching](https://github.com/codewithkishanx/Leetcode/tree/master/1023-camelcase-matching) |
 | [1090-largest-values-from-labels](https://github.com/codewithkishanx/Leetcode/tree/master/1090-largest-values-from-labels) |
 | [1248-count-number-of-nice-subarrays](https://github.com/k-iishan/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/codewithkishanx/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0923-3sum-with-multiplicity](https://github.com/codewithkishanx/Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/codewithkishanx/Leetcode/tree/master/0948-bag-of-tokens) |
+| [0977-squares-of-a-sorted-array](https://github.com/codewithkishanx/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1090-largest-values-from-labels](https://github.com/codewithkishanx/Leetcode/tree/master/1090-largest-values-from-labels) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/codewithkishanx/Leetcode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/k-iishan/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/codewithkishanx/Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/codewithkishanx/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/codewithkishanx/Leetcode/tree/master/0962-maximum-width-ramp) |
+| [0977-squares-of-a-sorted-array](https://github.com/codewithkishanx/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1023-camelcase-matching](https://github.com/codewithkishanx/Leetcode/tree/master/1023-camelcase-matching) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/codewithkishanx/Leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/k-iishan/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |

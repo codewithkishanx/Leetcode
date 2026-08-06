@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/k-iishan/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/codewithkishanx/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/k-iishan/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/k-iishan/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/k-iishan/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/codewithkishanx/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/k-iishan/Leetcode/tree/master/0112-path-sum) |
 | [1306-jump-game-iii](https://github.com/k-iishan/Leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/k-iishan/Leetcode/tree/master/1345-jump-game-iv) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/k-iishan/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/codewithkishanx/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/k-iishan/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/k-iishan/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/k-iishan/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/k-iishan/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/codewithkishanx/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/k-iishan/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/k-iishan/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/k-iishan/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |

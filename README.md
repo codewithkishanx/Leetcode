@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codewithkishanx/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/codewithkishanx/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/k-iishan/Leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/k-iishan/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/k-iishan/Leetcode/tree/master/0054-spiral-matrix) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/codewithkishanx/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codewithkishanx/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/codewithkishanx/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/k-iishan/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/codewithkishanx/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/k-iishan/Leetcode/tree/master/0389-find-the-difference) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/codewithkishanx/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/k-iishan/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/k-iishan/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/k-iishan/Leetcode/tree/master/0059-spiral-matrix-ii) |

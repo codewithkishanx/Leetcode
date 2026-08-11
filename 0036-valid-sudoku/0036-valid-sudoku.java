@@ -26,7 +26,7 @@ class Solution {
                 }
                 ver[j][val] = true;
 
-                // Check 3x3 box
+
                 int boxIndex = (i / 3) * 3 + (j / 3);
 
                 if (box[boxIndex][val]) {

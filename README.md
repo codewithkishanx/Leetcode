@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/codewithkishanx/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/codewithkishanx/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2182-construct-string-with-repeat-limit](https://github.com/k-iishan/Leetcode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2211-count-collisions-on-a-road](https://github.com/codewithkishanx/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2370-longest-ideal-subsequence](https://github.com/k-iishan/Leetcode/tree/master/2370-longest-ideal-subsequence) |
 | [2506-count-pairs-of-similar-strings](https://github.com/codewithkishanx/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/k-iishan/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codewithkishanx/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/codewithkishanx/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/codewithkishanx/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2211-count-collisions-on-a-road](https://github.com/codewithkishanx/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Tree
 |  |
 | ------- |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/codewithkishanx/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/codewithkishanx/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/k-iishan/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2211-count-collisions-on-a-road](https://github.com/codewithkishanx/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2553-separate-the-digits-in-an-array](https://github.com/k-iishan/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/codewithkishanx/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/codewithkishanx/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
